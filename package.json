@@ -1,0 +1,12 @@
+{
+  "name": "tinyagent",
+  "version": "0.1.0",
+  "description": "Building TinyAgent from scratch — companion code for the dev.to series",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "post1": "node 01-llm-basics/tinyagent.js"
+  }
+}
